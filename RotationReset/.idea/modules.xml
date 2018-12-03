@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/OutlierStatisticsEngine.iml" filepath="$PROJECT_DIR$/.idea/OutlierStatisticsEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RotationReset.iml" filepath="$PROJECT_DIR$/RotationReset.iml" />
     </modules>
   </component>
 </project>
